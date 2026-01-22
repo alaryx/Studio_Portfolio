@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -178,3 +179,10 @@ MIT
 ## 💬 Support
 
 For issues or questions, contact: your@email.com
+=======
+# Studio_Portfolio
+A website to flaunt your work to employers, Portfolio Site
+
+Tools Used for Assistance:
+Claude AI, Chat GPT, Youtube Course(Apna College)
+>>>>>>> 72b2e31a87af256b4809ccecb3ac3293d2b88843
